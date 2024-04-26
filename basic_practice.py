@@ -7,13 +7,9 @@ name = "Chiamaka"
 
 # Print the values and types of these variables.
 
-print(num1)
-print(num2)
-print(name)
-
-print(type(num1))
-print(type(num2))
-print(type(name))
+print(num1, type(num1))
+print(num2, type(num2))
+print(name, type(name))
 
 
 # User input
